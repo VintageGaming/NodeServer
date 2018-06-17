@@ -1,0 +1,23 @@
+#Bug {
+	border-radius: 10px;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	background-color: red;
+}
+
+#Player1 {
+	border-radius: 10px;
+	position: relative;
+	width: 20px;
+	height: 100px;
+	background-color: black;
+}
+
+#Player2 {
+	border-radius: 10px;
+	position: relative;
+	width: 20px;
+	height: 100px;
+	background-color: black;
+}
